@@ -1,0 +1,139 @@
+[
+  {
+    "id": "1",
+    "amiiboSeries": "Super Smash Bros.",
+    "character": "Mario",
+    "gameSeries": "Super Mario",
+    "head": "00000000",
+    "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_00000000-00000002.png",
+    "name": "Mario",
+    "release": {
+      "au": "2014-11-29",
+      "eu": "2014-11-28",
+      "jp": "2014-12-06",
+      "na": "2014-11-21"
+    },
+    "tail": "00000002",
+    "type": "Figure"
+  },
+
+  {
+    "id": "2",
+    "amiiboSeries": "Super Smash Bros.",
+    "character": "Pichu",
+    "gameSeries": "Pokemon",
+    "head": "19ac0000",
+    "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_19ac0000-03850002.png",
+    "name": "Pichu",
+    "release": {
+      "au": "2019-07-19",
+      "eu": "2019-07-19",
+      "jp": "2019-07-19",
+      "na": "2019-07-19"
+    },
+    "tail": "03850002",
+    "type": "Figure"
+  },
+  {
+    "id": "3",
+    "amiiboSeries": "Super Mario Bros.",
+    "character": "Daisy",
+    "gameSeries": "Super Mario",
+    "head": "00130000",
+    "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_00130000-02660102.png",
+    "name": "Daisy",
+    "release": {
+      "au": "2016-11-05",
+      "eu": "2016-11-04",
+      "jp": "2016-10-20",
+      "na": "2016-11-04"
+    },
+    "tail": "02660102",
+    "type": "Figure"
+  },
+  {
+    "id": "4",
+    "amiiboSeries": "Super Smash Bros.",
+    "character": "Mega Man",
+    "gameSeries": "Megaman",
+    "head": "34800000",
+    "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_34800000-00310002.png",
+    "name": "Mega Man",
+    "release": {
+      "au": "2015-01-29",
+      "eu": "2015-02-20",
+      "jp": "2015-01-22",
+      "na": "2015-02-01"
+    },
+    "tail": "00310002",
+    "type": "Figure"
+  },
+  {
+    "id": "5",
+    "amiiboSeries": "Super Smash Bros.",
+    "character": "Link",
+    "gameSeries": "The Legend of Zelda",
+    "head": "01000000",
+    "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_01000000-00040002.png",
+    "name": "Link",
+    "release": {
+      "au": "2014-11-29",
+      "eu": "2014-11-28",
+      "jp": "2014-12-06",
+      "na": "2014-11-21"
+    },
+    "tail": "00040002",
+    "type": "Figure"
+  },
+  {
+    "id": "6",
+    "amiiboSeries": "Metroid",
+    "character": "Metroid",
+    "gameSeries": "Metroid",
+    "head": "05c10000",
+    "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_05c10000-03661302.png",
+    "name": "Metroid",
+    "release": {
+      "au": "2017-09-16",
+      "eu": "2017-09-15",
+      "jp": "2017-09-15",
+      "na": "2017-09-15"
+    },
+    "tail": "03661302",
+    "type": "Figure"
+  },
+  {
+    "id": "7",
+    "amiiboSeries": "Super Smash Bros.",
+    "character": "Squirtle",
+    "gameSeries": "Pokemon",
+    "head": "19070000",
+    "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_19070000-03840002.png",
+    "name": "Squirtle",
+    "release": {
+      "au": "2019-09-20",
+      "eu": "2019-09-20",
+      "jp": "2019-09-20",
+      "na": "2019-09-20"
+    },
+    "tail": "03840002",
+    "type": "Figure"
+  },
+  {
+    "id": "8",
+    "amiiboSeries": "Others",
+    "character": "Solaire of Astora",
+    "gameSeries": "Dark Souls",
+    "head": "33800000",
+    "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_33800000-03781402.png",
+    "name": "Solaire of Astora",
+    "release": {
+      "au": "2018-10-19",
+      "eu": "2018-10-19",
+      "jp": "2018-10-18",
+      "na": "2018-10-19"
+    },
+    "tail": "03781402",
+    "type": "Figure"
+  }
+]
